@@ -1,0 +1,37 @@
+{
+"symbol": "YFRX",
+
+"name": "yfrx.finance",
+
+"type": "ERC20",
+
+"address": "0x1280763b1beb3212f702887b2f3afc9a8e8894ff",
+"ens_address": "",
+"decimals": 18,
+"website": "https://yfrx.finance",
+"logo": {
+    "src": "https://i.ibb.co/MkHFDqZ/yfrx-logo.png",
+    "width": "257",
+    "height": "257",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "cs@yfrx.finance",
+    "url": "mailto:cs@yfrx.finance"
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/yfrx-finance",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/yfrx_finance",
+    "twitter": "https://twitter.com/yfrx_finance",
+    "youtube": ""
+}
+}
